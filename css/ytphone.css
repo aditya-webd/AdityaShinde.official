@@ -85,10 +85,10 @@ body{
 #Summary-Section{
     display: flex;
     flex-direction: column;
-    height: 85vh;
+    height: 75vh;
 }
 #Summary-Section::before{
-    height: 85vh;
+    height: 75vh;
 }
 .Summary-items{
     margin-top: 2vh;

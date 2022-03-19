@@ -95,6 +95,9 @@ font-family: 'Josefin Sans', sans-serif;
     flex-direction: column;
     
 }
+.welcome p{
+ font-family: 'Inknut Antiqua', serif;   
+}
 .Post{
     display: flex;
     flex-direction: column;
@@ -142,7 +145,7 @@ font-family: 'Josefin Sans', sans-serif;
     
 }
 p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Inknut Antiqua', serif;
     font-size: 1.2rem;
 }
 h3 a{
@@ -163,6 +166,9 @@ h3 a:hover{
     width: 70vw;
     margin: 2vw;
     padding: 1vw;
+}
+.about p{
+    font-family: 'Inknut Antiqua', serif;
 }
 #About-Section h2{
     padding-top: 20px;

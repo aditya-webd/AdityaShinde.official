@@ -144,8 +144,8 @@ font-family: 'Josefin Sans', sans-serif;
     font-size: 2rem;
     
 }
-p{
-    font-family: 'Inknut Antiqua', serif;
+.chnl p{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.2rem;
 }
 h3 a{
